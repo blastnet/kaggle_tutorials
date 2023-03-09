@@ -13,4 +13,4 @@ Please cite the following when publishing based on these codes:
 
 1. Appl. Energy in Combust. Sci. Paper: https://doi.org/10.1016/j.jaecs.2022.100087
 2. ICML W. Paper: https://openreview.net/forum?id=LxGTZM7L6qn
-3. Dataset citation: https://doi.org/10.5281/zenodo.7709676
+3. Dataset citation: https://doi.org/10.5281/zenodo.7242864
